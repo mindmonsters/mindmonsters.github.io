@@ -1,0 +1,162 @@
+body {
+	font-family: Courier;
+}
+
+#logo{
+top:8px;
+left: 10px;
+}
+
+#header{
+background-color: #EBFDF3;
+position: relative;
+color: grey;
+border-top-left-radius: 15px;
+border-top-right-radius: 15px;
+height: 85px;
+}
+
+#navbar{
+top: 25px;
+position: relative;
+width: 1000px;
+float: right;
+right: 25px;
+}
+
+ul{
+margin-top: 10px;
+}
+
+li{
+border: 5px dotted;
+background-color: #8EFDC3;
+color: white;
+font-size: 20px;
+display: inline;
+padding: 5px;
+}
+
+#intro{
+text-align: center;
+}
+
+#{
+align: center;
+width: 1000;
+}
+
+h1{
+float: left;
+}
+
+#footer{
+clear: both;
+position: relative;
+bottom: -20px;
+border-bottom-left-radius: 15px;
+border-bottom-right-radius: 15px;
+height: 90px;
+background-color: #EBFDF3;
+top: 80px;
+}
+
+#button{
+float: left;
+position: relative;
+left: 850px;
+bottom: -20px;
+height: 30px;
+width: 150px;
+}
+
+#button p{
+position: relative;
+bottom: 10px;
+font-size: 20px;
+color: grey;
+font-family: Tahoma;
+}
+
+img{
+position: relative;
+margin: auto;
+}
+
+a{
+text-decoration: none;
+}
+
+#contact{
+font-weight: bold;
+font-size: 20px;
+position: relative;
+top: 100px;
+}
+
+.aboutp{
+width: 500px;
+}
+
+#bluegirl{
+width: 530px;
+float: right;
+right: 90px;
+top: 40px;
+}
+
+.pets{
+height: 150px;
+top: 78px;
+}
+
+#clothingp{
+width: 500px;
+}
+
+.play{
+height: 200px;
+display: inline;
+top: 150px;
+left: 285px;
+}
+
+#metalp{
+width: 500px;
+}
+
+#drawingp{
+width: 500px;
+}
+
+#skeleton{
+float: right;
+right: 85px;
+width: 550px;
+top: 50px;
+}
+
+#hand{
+height: 475px;
+left: 90px;
+top: 80px;}
+
+.shoes{
+height: 155px;
+display: inline;
+top: 75px;
+}
+
+#butterfly{
+float: right;
+top: 100px;
+width: 449px;
+right: 85px;
+}
+
+#collage{
+width: 475px;
+top: 100px;
+float: left;
+left: 90px;
+}
